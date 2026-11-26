@@ -1,0 +1,15 @@
+{
+  "name": "mc-bot-24-7",
+  "version": "1.0.0",
+  "description": "AFK bot that keeps an Aternos Minecraft server online 24/7",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "mineflayer": "^4.20.0"
+  }
+}
